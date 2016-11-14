@@ -1132,7 +1132,7 @@ public class TagOptionSingleton
 
     public boolean isAndroid()
     {
-        return isAndroid;
+        return true;
     }
 
     public void setAndroid(boolean android)
