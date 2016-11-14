@@ -1,0 +1,18 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Test
+testdata/
+testtagdata
+*.mp3
+*.bat
